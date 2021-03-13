@@ -9,3 +9,8 @@ Try
 SoftwareSerial myGsm(10,11); // RX: 10, TX:11
 
 Depends on your pin configuration
+
+--------------------------------------
+
+Need to change APN. Here I used dialog sim. 
+If you are using any other sim find the APN
